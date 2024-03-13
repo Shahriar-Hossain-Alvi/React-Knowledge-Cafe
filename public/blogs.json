@@ -2,7 +2,7 @@
     {
         "id": "001",
         "cover_image": "https://raw.githubusercontent.com/Shahriar-Hossain-Alvi/images-projects/main/1.jpg",
-        "title": "Lorem Ipsum Dolor Sit Amet",
+        "title": "How to get your first job as a self-taught programmer",
         "author": "John Doe",
         "author_img": "https://raw.githubusercontent.com/Shahriar-Hossain-Alvi/images-projects/main/boy1.png",
         "post_date": "2024-03-12",
@@ -16,7 +16,7 @@
     {
         "id": "002",
         "cover_image": "https://raw.githubusercontent.com/Shahriar-Hossain-Alvi/images-projects/main/2.png",
-        "title": "Consectetur Adipiscing Elit",
+        "title": "How to get your first job as a self-taught programmer",
         "author": "Jane Smith",
         "author_img": "https://raw.githubusercontent.com/Shahriar-Hossain-Alvi/images-projects/main/boy2.png",
         "post_date": "2024-03-11",
@@ -30,7 +30,7 @@
     {
         "id": "003",
         "cover_image": "https://raw.githubusercontent.com/Shahriar-Hossain-Alvi/images-projects/main/3.png",
-        "title": "Sed Do Eiusmod Tempor Incididunt",
+        "title": "How to get your first job as a self-taught programmer",
         "author": "Alice Johnson",
         "author_img": "https://raw.githubusercontent.com/Shahriar-Hossain-Alvi/images-projects/main/girl1.jpg",
         "post_date": "2024-03-10",
@@ -44,7 +44,7 @@
     {
         "id": "004",
         "cover_image": "https://raw.githubusercontent.com/Shahriar-Hossain-Alvi/images-projects/main/4.jpg",
-        "title": "Ut Labore Et Dolore Magna Aliqua",
+        "title": "How to get your first job as a self-taught programmer",
         "author": "Michael Brown",
         "author_img": "https://raw.githubusercontent.com/Shahriar-Hossain-Alvi/images-projects/main/girl2.jpg",
         "post_date": "2024-03-09",
