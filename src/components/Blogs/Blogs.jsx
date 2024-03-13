@@ -15,7 +15,7 @@ const Blogs = ({handleAddToBookmark, handleMarkAsRead}) => {
     }, []);
 
     return (
-        <div className="w-2/3">
+        <div className="w-full md:w-2/3 lg:w-2/3">
             {
                 blogs.map(blog=><Blog 
                     key={blog.id} 

@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import Bookmark from '../Bookmark/Bookmark';
 const Bookmarks = ({ bookmarks, readingTime }) => {
     return (
-        <div className="w-1/3 mt-8">
+        <div className="w-full md:w-1/3 lg:w-1/3 mt-8">
             <div className='p-5 border border-[#6047EC] bg-[#6047EC1A] rounded-lg'>
                 <h2 className='text-[#6047EC] text-2xl font-bold'>Spent time on read : {readingTime} min</h2>
             </div>
